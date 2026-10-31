@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Building technology. Solving real problems.</b>
- <hr/>
+ <br/>
  <b>Software. Systems. Products. Innovation.</b>
 </p>
 
