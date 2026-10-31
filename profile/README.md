@@ -1,8 +1,9 @@
 # Akazel
 
 <p align="center">
-  **Building technology. Solving real problems.** 
-  *Software. Systems. Products. Innovation.*
+  <b>Building technology. Solving real problems.</b>
+ <hr/>
+ <b>Software. Systems. Products. Innovation.</b>
 </p>
 
 ---
